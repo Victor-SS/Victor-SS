@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Victor-SS
+- 👀 I’m interested in Developer Career
+- 🌱 I’m currently learning Azure Developer
+- 👀 I`m just start my journey
